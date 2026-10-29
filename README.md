@@ -29,4 +29,4 @@ Developed Django REST backend services with role-based access control and MySQL,
 Python · SQL · R · Pandas · NumPy · Scikit-learn · LightGBM · PyTorch (dice-embeddings) · Flask · Django · MySQL · Git
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/swarap24) · swara.2408.patel@gmail.com
+[LinkedIn](https://www.linkedin.com/in/swarap24) · swara.2408.patell@gmail.com
